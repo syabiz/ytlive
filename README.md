@@ -1,4 +1,4 @@
-Ini adalah daftar putar (Playlist) channel-channel Youtube Official. 
+Ini adalah repositori daftar putar (Playlist) channel-channel Youtube Official. 
 Siaran akan terbuka jika channel tersebut sedang online live di Youtube.
 Jika channel tersebut sedang tidak live, maka tidak ada siaran yang akan tampil.
 Saya akan berupaya mengupdate Playlist setiap 5 menit jika server kami tetap berjalan.
@@ -15,6 +15,7 @@ Project ini adalah project personal yang mana bisa mengakses sebuah channel Yout
 Antara player yang mendukung adalah,
 
 Android Phone / Android TV :
+
 1. [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=id)
 2. [VLC for ANdroid](https://play.google.com/store/search?q=VLC&c=apps&hl=id)
 3. [TiViMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
@@ -23,9 +24,14 @@ Windows PC (7,8,10,11) :
 1. [Media Player Classic](https://mpc-hc.org/)
 2. [VLC Media Player](https://www.videolan.org/)
 
+
 Request Channel :
+
 Bagi yang ingin request menambahkan channel-channel tertentu silahkan tinggalkan pesan di [Saweria](https://saweria.co/syabiz) atau [Trakteer](https://trakteer.id/syabiz) saat melakukan donasi. Berapapun nominalnya akan sengat membantu mendukung project ini.
 
+Manfaat bagi pemilik channel, ini mampu meningkatkan jam tayang berkali-lipat. Bukan saja di sisi server yang me-reload setiap 5 menit, tapi juga bagi penggemar channel tersebut sepanjang channel tersebut live.
+
+Donasi dan Dukungan:
 
 Untuk keberlansungan project ini barangkali ingin memberikan dukukungan silahkan berdonasi melalui :
 1. [Saweria](https://saweria.co/syabiz)
