@@ -10,6 +10,8 @@
 #   >> https://github.com/syabiz/ytlive  | Donation : https://saweria.co/syabiz     #
 #####################################################################################
 
+
+<!-- BERITA -->
 #EXTINF:-1 tvg-name="Metro TV" group-title="Berita" tvg-id="MetroTV.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/tvg-logo/refs/heads/main/country/indonesia/metro-tv-id.png", Metro TV
 https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/MetroTV.m3u8
 
@@ -21,3 +23,26 @@ https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/KompasTV.m3u8
 
 #EXTINF:-1 tvg-name="CNN Indonesia" group-title="Berita" tvg-id="CNNIndonesia.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/tvg-logo/refs/heads/main/country/indonesia/cnn-indonesia-id.png" tvg-id="", CNN Indonesia
 https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/CNNindonesia.m3u8
+
+#EXTINF:-1 tvg-name="Tribun News" group-title="Berita" tvg-id="TribunNews.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/tvg-logo/refs/heads/main/country/indonesia/tribun-news-id.png" tvg-id="", Tribun News
+https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/TribunNews.m3u8
+
+<!-- RELIGI -->
+#EXTINF:-1 tvg-name="Al-Bahjah TV" group-title="Religi" tvg-id="AlBahjahTV.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/tvg-logo/refs/heads/main/religions/al-bahjah-tv-id.png" tvg-id="", Al-Bahjah TV
+https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/AlBahjahTV.m3u8
+
+#EXTINF:-1 tvg-name="Ustadz Adi Hidayat Official" group-title="Religi" tvg-id="UstadzAdiHidayatOfficial.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/tvg-logo/refs/heads/main/religions/al-bahjah-tv-id.png" tvg-id="", Ustadz Adi Hidayat Official
+https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/UstadzAdiHidayatOfficial.m3u8
+
+#EXTINF:-1 tvg-name="Habib Novel Al Athos" group-title="Religi" tvg-id="HabibNovelAlAthos.id" tvg-url="" tvg-logo="https://i.ytimg.com/vi/iNSs-w1eDsY/sddefault.jpg" tvg-id="", Habib Novel Al Athos
+https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/HabibNovelAlAthos.m3u8
+
+
+
+
+
+
+
+
+
+
