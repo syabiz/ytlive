@@ -1,0 +1,23 @@
+#EXTM3U x-tvg-url=""
+
+#####################################################################################
+#	____ ___  _ ____  ____  _  ____           ___  _ _____  _     _  _     _____	#
+#	/ ___\\  \///  _ \/  _ \/ \/_   \          \  \///__ __\/ \   / \/ \ |\/  __/   #
+#	|    \ \  / | / \|| | //| | /   /  _____    \  /   / \  | |   | || | //|  \     #
+#	\___ | / /  | |-||| |_\\| |/   /_  \____\   / /    | |  | |_/\| || \// |  /_    #
+#	\____//_/   \_/ \|\____/\_/\____/          /_/     \_/  \____/\_/\__/  \____\   #
+#																				    #
+#   >> https://github.com/syabiz/ytlive  | Donation : https://saweria.co/syabiz     #
+#####################################################################################
+
+#EXTINF:-1 tvg-name="Metro TV" group-title="Berita" tvg-id="MetroTV.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/tvg-logo/refs/heads/main/country/indonesia/metro-tv-id.png", Metro TV
+https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/MetroTV.m3u8
+
+#EXTINF:-1 tvg-name="TVOneNews" group-title="Berita" tvg-id="TVOneNews" tvg-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/tvg-logo/refs/heads/main/country/indonesia/tvone-id.png" tvg-id="", TVOneNews
+https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/TVOneNews.m3u8
+
+#EXTINF:-1 tvg-name="Kompas TV" group-title="Berita" tvg-id="KompasTV.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/tvg-logo/refs/heads/main/country/indonesia/metro-tv-id.png", Kompas TV
+https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/KompasTV.m3u8
+
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="Berita" tvg-id="CNNIndonesia.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/tvg-logo/refs/heads/main/country/indonesia/cnn-indonesia-id.png" tvg-id="", CNN Indonesia
+https://raw.githubusercontent.com/syabiz/ytlive/refs/heads/main/CNNindonesia.m3u8
