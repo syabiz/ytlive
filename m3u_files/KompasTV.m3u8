@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="KompasTV" group-title="Offline", KompasTV (Offline)
-https://ia800808.us.archive.org/9/items/ytlive/offline.mp4
+#EXTINF:-1 tvg-name="KompasTV" group-title="YouTube Live", KompasTV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1741829000/ei/KN_RZ_WKL_6d4t4P6rfzEQ/ip/103.39.51.84/id/DOOrIxw5xOw.21/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-hq2gph5-jb3l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUWDL3ysXA70s3CeQ_I613I3ZURbNAjBk-RETLG9U5u-1SqxIW3p3aaPPXXWxuBJQZxLOqLalCsiydc9/spc/RjZbSSnNX549unkSG3w4dDyyq7sWNIk_ZvfIz5R3YJDkLRIXy4OVA6bceip0l9M/vprv/1/playlist_type/DVR/initcwndbps/356250/met/1741807402,/mh/nm/mm/44/mn/sn-hq2gph5-jb3l/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51355912,51358316,51385700,51411872/mt/1741806998/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJsp9h4SZUN8f5Pdv2ICHohxK08oiOzHTPU1gaPU1e3mAiA2NEIwG0WKBeAYEIeQjseTQJdL9ISsSG6ANIUKsuJAGg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/AFVRHeAwRQIgQVxIP6pAjwsWyrIFo4B0WDJVYMR7LSm1MrHDicS7JDoCIQD3a4eVrphsT1ZCtcR9MwSnHO5dOcporf9KsrUgruEkZw%3D%3D/playlist/index.m3u8
+#EXTINF:10, Iklan
+https://ia600808.us.archive.org/9/items/ytlive/iklan1.mp4
