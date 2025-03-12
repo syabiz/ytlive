@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TVOneNews" group-title="Offline", TVOneNews (Offline)
-https://ia800808.us.archive.org/9/items/ytlive/offline.mp4
+#EXTINF:-1 tvg-name="TVOneNews" group-title="YouTube Live", TVOneNews
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1741829038/ei/Tt_RZ77zBbHLqfkP6YfB6Q4/ip/103.39.51.84/id/yNKvkPJl-tg.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-hq2gph5-jb3z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUWDL3zQMBkOe7aVkbjfI7IxXIMVVZ41wzXCS5sX_ejDAIJoywxy4gz9jBE5DkYrrEjGFLsWM2a1bOVc/spc/RjZbSTJsCfm5hKlptJyHfh9e9yzxSrxpQHkFhTwZwJFZmj_Nmshqp2Zvk2ZG4vM/vprv/1/playlist_type/DVR/initcwndbps/345000/met/1741807439,/mh/vu/mm/44/mn/sn-hq2gph5-jb3z/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51355912,51358317,51411872/mt/1741806998/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgVnAvonuUd2YmaJF_4eRW2OiCOFACIhQRQbN11zwQgfICIFhMDYpgZjFoz4kNoV7EuWNELLMSJFMwAizpeUPDhwZs/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AFVRHeAwRQIgbg779eeWc3ZJN5yv7BGt7eGisVspZIKSwMDxi5KlktACIQD8Tqp69v33AiJ0-eeQnvMDcXYgqh6qBdpGpkKtv8jUUw%3D%3D/playlist/index.m3u8
+#EXTINF:10, Iklan
+https://ia600808.us.archive.org/9/items/ytlive/iklan1.mp4
